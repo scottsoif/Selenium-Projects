@@ -1,7 +1,7 @@
 #
 #   I was working with the GitHub Rest API
 #   and created lots of issues. So here is a 
-#   bot to bulk delete the repo issue
+#   bot to bulk delete the repo issues
 #
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
