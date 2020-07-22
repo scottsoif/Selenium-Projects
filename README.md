@@ -1,3 +1,3 @@
-# Repo of my public selenium projects
+# Repo of my Selenium projects
 
 Each python file contains a description. 
